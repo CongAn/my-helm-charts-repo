@@ -3,12 +3,22 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-29T15:05:15.113632226Z"
+    created: "2024-12-29T15:24:47.945799627Z"
+    description: A Helm chart for Kubernetes
+    digest: 349c945c900da2f9721e91b692ca86e3cf3e61735024f06cffd7ea8621b8309a
+    name: mychart
+    type: application
+    urls:
+    - https://congan.github.io/my-helm-charts-repo/mychart-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-29T15:24:47.946164833Z"
     description: A Helm chart for Kubernetes
     digest: 4501bb2cceb7c8f246ee5a720dbfb3bf53537c9bffb329ed9bd28ac3aa81707f
     name: mychart
     type: application
     urls:
-    - https://github.com/CongAn/my-helm-charts-repo/mychart-0.1.0.tgz
+    - https://congan.github.io/my-helm-charts-repo/docs/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-29T15:05:15.113206019Z"
+generated: "2024-12-29T15:24:47.945212218Z"
